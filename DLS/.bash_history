@@ -1,0 +1,15 @@
+Rscript main.r
+Rscript agewise.r
+Rscript agewise.r
+Rscript agewise.r
+Rscript main.r
+Rscript agewise.r
+Rscript main.r
+Rscript agewise.r
+Rscript agewise.r
+Rscript agewise.r
+Rscript agewise.r
+Rscript agewise.r
+Rscript main.r
+Rscript agewise.r
+Rscript agewise.r
